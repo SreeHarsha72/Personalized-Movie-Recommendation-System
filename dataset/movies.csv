@@ -1,0 +1,61 @@
+movie_id,title,primary_genre,secondary_genre,release_year,content_type,maturity_rating,duration_min,avg_platform_rating
+101,Shadow Protocol,Comedy,Action,2019,Movie,PG,92,4.33
+102,City of Echoes,Horror,Comedy,2024,Series,G,78,3.17
+103,Neon Warriors,Sci-Fi,Fantasy,2024,Movie,R,100,4.29
+104,Love in Autumn,Horror,Animation,2018,Series,R,110,4.46
+105,The Last Algorithm,Action,Sci-Fi,2021,Series,PG-13,94,3.39
+106,Midnight Heist,Romance,Comedy,2016,Series,G,120,4.53
+107,Ocean of Stars,Fantasy,Thriller,2015,Series,R,90,4.75
+108,Laugh Track Live,Animation,Comedy,2023,Series,R,121,4.04
+109,Hidden Kingdom,Comedy,Action,2025,Movie,PG-13,85,4.54
+110,Broken Compass,Comedy,Documentary,2019,Series,PG-13,95,3.67
+111,Galaxy Riders,Sci-Fi,Romance,2025,Movie,R,156,3.31
+112,Cooking with Chaos,Sci-Fi,Drama,2022,Series,PG-13,156,4.24
+113,The Quiet Witness,Sci-Fi,Animation,2015,Movie,G,115,3.72
+114,Dream Factory,Comedy,Thriller,2024,Series,PG,158,3.9
+115,Urban Legends,Documentary,Drama,2019,Movie,PG,146,3.97
+116,Frozen Harbor,Fantasy,Animation,2024,Series,PG-13,103,4.8
+117,Digital Ghost,Drama,Fantasy,2022,Movie,G,89,3.28
+118,The Marble Crown,Drama,Documentary,2024,Movie,TV-14,123,4.07
+119,Runaway Train,Documentary,Fantasy,2019,Movie,G,143,4.35
+120,Family Weekend,Romance,Comedy,2019,Series,PG,133,3.01
+121,Desert Bloom,Thriller,Fantasy,2017,Movie,PG-13,156,3.91
+122,Parallel Lives,Sci-Fi,Drama,2020,Movie,R,142,4.65
+123,The Comedy Club,Fantasy,Romance,2022,Movie,G,121,4.58
+124,Space Colony 9,Thriller,Sci-Fi,2015,Movie,R,85,3.15
+125,Mind Games,Documentary,Comedy,2023,Movie,PG,159,3.86
+126,Robot Heart,Horror,Drama,2019,Series,PG,144,4.36
+127,Haunted Pines,Sci-Fi,Romance,2021,Series,TV-14,141,3.81
+128,Golden Hour,Sci-Fi,Thriller,2016,Series,G,150,4.0
+129,The Startup,Fantasy,Sci-Fi,2015,Movie,G,104,3.12
+130,Wild Earth,Action,Animation,2016,Movie,PG-13,160,3.87
+131,Mystery Lane,Horror,Drama,2024,Series,PG,135,4.45
+132,Dragon Valley,Sci-Fi,Comedy,2016,Series,PG-13,129,3.74
+133,Courtroom Fire,Action,Drama,2015,Series,PG-13,88,3.45
+134,Winter Promise,Sci-Fi,Fantasy,2022,Movie,TV-14,98,3.5
+135,Alien Signal,Sci-Fi,Comedy,2022,Movie,G,158,4.8
+136,Street Dancers,Action,Drama,2018,Movie,TV-14,137,3.87
+137,The Lost Recipe,Animation,Action,2017,Series,G,124,3.48
+138,True Crime Files,Documentary,Thriller,2021,Series,PG,99,3.53
+139,Jungle Quest,Action,Fantasy,2015,Series,G,81,4.05
+140,Racing Pulse,Horror,Fantasy,2017,Movie,R,85,4.53
+141,Moonlight Letters,Comedy,Drama,2025,Movie,TV-14,90,4.69
+142,The Hacker Room,Fantasy,Sci-Fi,2024,Movie,R,85,3.75
+143,Castle of Ash,Fantasy,Horror,2020,Series,PG,160,4.29
+144,Penguin Planet,Sci-Fi,Romance,2021,Movie,PG-13,133,3.57
+145,Red Notice Night,Comedy,Action,2022,Movie,G,143,3.38
+146,Medical Miracles,Thriller,Drama,2020,Movie,PG,122,3.51
+147,Supernova Kids,Documentary,Fantasy,2019,Movie,R,113,4.68
+148,The Final Clue,Comedy,Sci-Fi,2019,Movie,G,145,3.28
+149,Backstage Pass,Thriller,Sci-Fi,2020,Movie,PG-13,139,3.88
+150,Silent Storm,Action,Drama,2025,Series,PG-13,80,3.01
+151,The Time Bridge,Drama,Romance,2017,Series,R,129,4.01
+152,Neighborhood Heroes,Comedy,Drama,2017,Movie,PG-13,149,3.99
+153,Arctic Secrets,Animation,Drama,2015,Series,PG-13,80,4.62
+154,Love & Logic,Sci-Fi,Thriller,2025,Movie,PG-13,146,4.59
+155,Cyber City,Animation,Drama,2018,Movie,PG,127,3.04
+156,The Great Escape Plan,Romance,Documentary,2025,Movie,PG-13,95,4.42
+157,Planet Rescue,Comedy,Documentary,2015,Series,PG,100,4.47
+158,Wedding Season,Documentary,Romance,2019,Movie,PG,78,4.19
+159,Deep Sea Monsters,Animation,Romance,2019,Movie,PG-13,119,4.15
+160,Comedy Roadtrip,Animation,Fantasy,2020,Movie,G,108,3.32

@@ -1,0 +1,1001 @@
+user_id,age,country,subscription_plan,primary_device,favorite_genre_1,favorite_genre_2
+1,34,USA,Basic,Laptop,Romance,Fantasy
+2,45,Mexico,Premium,Smart TV,Animation,Sci-Fi
+3,34,USA,Premium,Laptop,Action,Horror
+4,52,Canada,Standard,Laptop,Comedy,Romance
+5,57,UK,Premium,Smart TV,Thriller,Horror
+6,37,India,Standard,Laptop,Thriller,Horror
+7,26,Canada,Standard,Laptop,Drama,Thriller
+8,43,Mexico,Basic,Tablet,Thriller,Sci-Fi
+9,45,Mexico,Premium,Tablet,Documentary,Fantasy
+10,46,Canada,Premium,Laptop,Drama,Comedy
+11,36,Mexico,Premium,Tablet,Comedy,Sci-Fi
+12,37,Canada,Basic,Mobile,Action,Fantasy
+13,33,India,Premium,Smart TV,Documentary,Animation
+14,58,Mexico,Basic,Laptop,Documentary,Animation
+15,33,Canada,Premium,Smart TV,Comedy,Animation
+16,32,Canada,Premium,Laptop,Action,Horror
+17,33,USA,Standard,Mobile,Documentary,Horror
+18,53,Mexico,Standard,Laptop,Fantasy,Horror
+19,45,Mexico,Standard,Mobile,Documentary,Fantasy
+20,34,Canada,Premium,Tablet,Horror,Documentary
+21,58,Canada,Standard,Laptop,Comedy,Thriller
+22,33,UK,Standard,Tablet,Horror,Comedy
+23,26,Canada,Basic,Laptop,Drama,Sci-Fi
+24,22,India,Standard,Tablet,Horror,Documentary
+25,44,USA,Basic,Laptop,Animation,Action
+26,54,India,Standard,Smart TV,Romance,Thriller
+27,42,India,Premium,Mobile,Documentary,Sci-Fi
+28,35,India,Standard,Smart TV,Animation,Romance
+29,60,India,Premium,Mobile,Documentary,Drama
+30,57,Mexico,Basic,Laptop,Fantasy,Action
+31,23,India,Basic,Laptop,Drama,Action
+32,34,India,Standard,Mobile,Documentary,Romance
+33,39,India,Standard,Laptop,Thriller,Comedy
+34,48,USA,Premium,Smart TV,Romance,Sci-Fi
+35,59,USA,Premium,Smart TV,Action,Sci-Fi
+36,30,USA,Premium,Mobile,Sci-Fi,Drama
+37,48,USA,Premium,Mobile,Documentary,Thriller
+38,41,Canada,Premium,Smart TV,Drama,Thriller
+39,24,Mexico,Basic,Tablet,Fantasy,Animation
+40,43,Canada,Basic,Mobile,Comedy,Thriller
+41,56,USA,Premium,Smart TV,Romance,Horror
+42,45,UK,Basic,Tablet,Action,Animation
+43,49,USA,Standard,Tablet,Documentary,Drama
+44,45,Canada,Premium,Tablet,Fantasy,Horror
+45,48,India,Standard,Tablet,Romance,Sci-Fi
+46,23,UK,Standard,Mobile,Documentary,Animation
+47,39,USA,Standard,Tablet,Drama,Documentary
+48,31,UK,Standard,Tablet,Thriller,Fantasy
+49,53,USA,Premium,Mobile,Comedy,Sci-Fi
+50,44,India,Premium,Mobile,Documentary,Fantasy
+51,46,USA,Basic,Tablet,Sci-Fi,Animation
+52,33,UK,Premium,Tablet,Documentary,Horror
+53,51,UK,Standard,Tablet,Romance,Documentary
+54,35,UK,Standard,Mobile,Comedy,Sci-Fi
+55,38,USA,Premium,Mobile,Sci-Fi,Fantasy
+56,48,UK,Premium,Tablet,Comedy,Sci-Fi
+57,36,Canada,Standard,Mobile,Thriller,Action
+58,52,Canada,Standard,Smart TV,Action,Horror
+59,36,Canada,Premium,Laptop,Comedy,Action
+60,54,UK,Standard,Laptop,Documentary,Romance
+61,29,USA,Standard,Laptop,Comedy,Fantasy
+62,43,India,Basic,Smart TV,Drama,Fantasy
+63,54,UK,Basic,Mobile,Comedy,Horror
+64,44,Mexico,Premium,Mobile,Horror,Animation
+65,46,India,Standard,Laptop,Thriller,Action
+66,57,USA,Basic,Mobile,Thriller,Comedy
+67,28,Canada,Basic,Smart TV,Drama,Action
+68,44,India,Premium,Laptop,Thriller,Action
+69,32,UK,Premium,Tablet,Documentary,Comedy
+70,32,UK,Premium,Mobile,Animation,Comedy
+71,52,Canada,Premium,Mobile,Thriller,Drama
+72,22,USA,Basic,Tablet,Fantasy,Thriller
+73,46,USA,Standard,Tablet,Animation,Thriller
+74,50,Mexico,Standard,Laptop,Comedy,Action
+75,45,UK,Premium,Tablet,Action,Comedy
+76,32,Mexico,Premium,Smart TV,Thriller,Action
+77,29,India,Premium,Laptop,Thriller,Drama
+78,55,India,Premium,Laptop,Comedy,Documentary
+79,40,India,Standard,Tablet,Comedy,Drama
+80,39,India,Premium,Laptop,Thriller,Animation
+81,53,USA,Standard,Smart TV,Romance,Thriller
+82,38,USA,Standard,Smart TV,Horror,Documentary
+83,44,USA,Basic,Tablet,Fantasy,Documentary
+84,58,India,Basic,Mobile,Thriller,Horror
+85,26,UK,Standard,Laptop,Comedy,Action
+86,58,Mexico,Basic,Mobile,Thriller,Horror
+87,18,Mexico,Standard,Smart TV,Sci-Fi,Comedy
+88,47,USA,Premium,Mobile,Documentary,Thriller
+89,50,UK,Standard,Laptop,Documentary,Sci-Fi
+90,47,Mexico,Basic,Laptop,Sci-Fi,Horror
+91,26,USA,Standard,Laptop,Romance,Horror
+92,35,USA,Standard,Tablet,Fantasy,Documentary
+93,27,India,Premium,Laptop,Romance,Fantasy
+94,53,Mexico,Standard,Laptop,Romance,Sci-Fi
+95,33,Mexico,Standard,Mobile,Animation,Action
+96,38,India,Premium,Laptop,Animation,Drama
+97,49,USA,Basic,Tablet,Comedy,Documentary
+98,24,Mexico,Standard,Smart TV,Drama,Animation
+99,59,Canada,Basic,Laptop,Thriller,Romance
+100,57,India,Premium,Smart TV,Romance,Horror
+101,42,UK,Premium,Laptop,Horror,Action
+102,57,USA,Basic,Tablet,Sci-Fi,Comedy
+103,45,USA,Premium,Smart TV,Documentary,Drama
+104,37,USA,Basic,Tablet,Action,Thriller
+105,40,UK,Standard,Mobile,Sci-Fi,Horror
+106,44,Mexico,Premium,Mobile,Drama,Fantasy
+107,23,Mexico,Standard,Mobile,Documentary,Drama
+108,32,India,Premium,Tablet,Documentary,Thriller
+109,60,USA,Standard,Tablet,Horror,Drama
+110,22,India,Standard,Tablet,Animation,Thriller
+111,47,UK,Basic,Laptop,Documentary,Comedy
+112,33,India,Premium,Tablet,Fantasy,Thriller
+113,36,USA,Premium,Laptop,Thriller,Action
+114,54,USA,Premium,Laptop,Thriller,Sci-Fi
+115,56,UK,Basic,Mobile,Fantasy,Thriller
+116,60,Canada,Premium,Smart TV,Action,Thriller
+117,46,USA,Premium,Tablet,Drama,Comedy
+118,36,UK,Premium,Laptop,Drama,Sci-Fi
+119,26,Mexico,Standard,Tablet,Drama,Thriller
+120,48,UK,Premium,Tablet,Comedy,Documentary
+121,22,Canada,Basic,Laptop,Horror,Romance
+122,23,India,Basic,Tablet,Horror,Comedy
+123,47,UK,Premium,Tablet,Fantasy,Animation
+124,58,UK,Basic,Mobile,Documentary,Action
+125,57,Mexico,Standard,Mobile,Comedy,Documentary
+126,37,India,Basic,Mobile,Action,Fantasy
+127,37,India,Basic,Smart TV,Sci-Fi,Horror
+128,26,India,Standard,Tablet,Horror,Animation
+129,55,Canada,Standard,Smart TV,Documentary,Animation
+130,35,USA,Premium,Tablet,Sci-Fi,Documentary
+131,46,Canada,Standard,Smart TV,Romance,Horror
+132,59,UK,Basic,Laptop,Thriller,Sci-Fi
+133,25,India,Basic,Mobile,Fantasy,Action
+134,21,UK,Basic,Mobile,Fantasy,Sci-Fi
+135,22,Mexico,Basic,Mobile,Sci-Fi,Romance
+136,27,Mexico,Basic,Tablet,Drama,Fantasy
+137,52,UK,Basic,Smart TV,Action,Drama
+138,18,UK,Basic,Tablet,Action,Drama
+139,34,USA,Basic,Laptop,Horror,Comedy
+140,22,India,Standard,Tablet,Horror,Comedy
+141,46,Mexico,Basic,Smart TV,Horror,Thriller
+142,47,USA,Basic,Laptop,Animation,Fantasy
+143,24,India,Premium,Laptop,Comedy,Fantasy
+144,38,Mexico,Basic,Smart TV,Drama,Thriller
+145,57,Mexico,Premium,Tablet,Animation,Horror
+146,36,India,Premium,Laptop,Comedy,Fantasy
+147,59,Mexico,Premium,Mobile,Animation,Documentary
+148,32,India,Standard,Laptop,Animation,Fantasy
+149,24,UK,Standard,Tablet,Thriller,Romance
+150,27,India,Basic,Smart TV,Comedy,Fantasy
+151,45,USA,Premium,Tablet,Drama,Horror
+152,21,Mexico,Premium,Tablet,Comedy,Animation
+153,40,India,Premium,Smart TV,Thriller,Fantasy
+154,40,USA,Premium,Mobile,Drama,Documentary
+155,32,USA,Standard,Tablet,Comedy,Thriller
+156,54,Canada,Standard,Smart TV,Fantasy,Thriller
+157,19,Canada,Standard,Tablet,Romance,Fantasy
+158,18,Canada,Basic,Laptop,Comedy,Drama
+159,58,USA,Basic,Mobile,Animation,Fantasy
+160,47,UK,Basic,Tablet,Thriller,Romance
+161,54,Mexico,Basic,Smart TV,Drama,Fantasy
+162,57,USA,Premium,Smart TV,Thriller,Documentary
+163,60,India,Standard,Laptop,Animation,Thriller
+164,31,Mexico,Basic,Tablet,Animation,Comedy
+165,36,Mexico,Standard,Tablet,Action,Sci-Fi
+166,43,Mexico,Basic,Smart TV,Sci-Fi,Thriller
+167,31,Canada,Standard,Tablet,Romance,Comedy
+168,18,India,Premium,Laptop,Drama,Fantasy
+169,42,Mexico,Premium,Mobile,Horror,Fantasy
+170,60,UK,Basic,Laptop,Action,Animation
+171,19,India,Basic,Tablet,Fantasy,Animation
+172,54,India,Premium,Laptop,Thriller,Comedy
+173,43,USA,Standard,Mobile,Fantasy,Documentary
+174,41,USA,Standard,Smart TV,Sci-Fi,Animation
+175,55,India,Premium,Smart TV,Animation,Thriller
+176,39,Canada,Standard,Mobile,Comedy,Horror
+177,58,USA,Premium,Mobile,Romance,Fantasy
+178,59,Canada,Basic,Smart TV,Drama,Thriller
+179,30,Canada,Premium,Mobile,Comedy,Drama
+180,58,India,Standard,Laptop,Fantasy,Romance
+181,58,UK,Basic,Laptop,Comedy,Documentary
+182,46,UK,Standard,Smart TV,Romance,Horror
+183,22,UK,Standard,Laptop,Action,Fantasy
+184,41,UK,Basic,Smart TV,Fantasy,Horror
+185,42,India,Premium,Smart TV,Documentary,Sci-Fi
+186,38,Mexico,Standard,Mobile,Action,Documentary
+187,24,UK,Premium,Smart TV,Horror,Drama
+188,20,Canada,Premium,Laptop,Documentary,Horror
+189,51,Mexico,Basic,Tablet,Romance,Thriller
+190,42,India,Standard,Smart TV,Romance,Comedy
+191,39,USA,Premium,Laptop,Thriller,Fantasy
+192,60,Mexico,Basic,Tablet,Comedy,Drama
+193,40,UK,Premium,Laptop,Drama,Comedy
+194,37,Mexico,Standard,Tablet,Drama,Horror
+195,23,India,Premium,Tablet,Action,Romance
+196,37,Canada,Basic,Tablet,Documentary,Sci-Fi
+197,32,Canada,Basic,Smart TV,Thriller,Comedy
+198,50,Mexico,Premium,Smart TV,Romance,Drama
+199,56,India,Basic,Mobile,Drama,Fantasy
+200,46,USA,Standard,Tablet,Sci-Fi,Documentary
+201,57,UK,Premium,Laptop,Sci-Fi,Horror
+202,33,UK,Standard,Mobile,Romance,Documentary
+203,47,UK,Standard,Laptop,Drama,Sci-Fi
+204,56,Canada,Standard,Smart TV,Documentary,Romance
+205,53,USA,Premium,Smart TV,Thriller,Comedy
+206,28,UK,Standard,Mobile,Animation,Comedy
+207,32,India,Standard,Smart TV,Animation,Action
+208,43,Mexico,Standard,Mobile,Animation,Comedy
+209,41,Canada,Basic,Tablet,Comedy,Romance
+210,27,Canada,Basic,Tablet,Documentary,Drama
+211,48,India,Premium,Smart TV,Comedy,Action
+212,34,Canada,Basic,Laptop,Comedy,Thriller
+213,33,UK,Basic,Smart TV,Sci-Fi,Animation
+214,58,Mexico,Standard,Smart TV,Comedy,Documentary
+215,56,Mexico,Basic,Mobile,Drama,Thriller
+216,45,USA,Premium,Tablet,Sci-Fi,Animation
+217,29,USA,Premium,Tablet,Comedy,Horror
+218,52,Mexico,Premium,Smart TV,Animation,Documentary
+219,20,India,Standard,Tablet,Action,Romance
+220,22,UK,Basic,Smart TV,Fantasy,Romance
+221,26,USA,Standard,Tablet,Drama,Documentary
+222,48,Canada,Basic,Smart TV,Documentary,Action
+223,36,Canada,Basic,Mobile,Action,Romance
+224,37,Mexico,Standard,Laptop,Thriller,Action
+225,59,Canada,Standard,Tablet,Action,Romance
+226,35,USA,Standard,Laptop,Animation,Documentary
+227,42,UK,Basic,Laptop,Documentary,Romance
+228,51,UK,Basic,Laptop,Comedy,Animation
+229,56,Canada,Premium,Tablet,Romance,Comedy
+230,23,UK,Premium,Tablet,Thriller,Documentary
+231,56,India,Basic,Laptop,Romance,Documentary
+232,20,UK,Premium,Laptop,Thriller,Action
+233,22,India,Standard,Mobile,Action,Drama
+234,56,India,Basic,Mobile,Comedy,Sci-Fi
+235,59,UK,Standard,Laptop,Fantasy,Action
+236,56,Canada,Premium,Laptop,Romance,Fantasy
+237,46,USA,Premium,Mobile,Horror,Romance
+238,43,UK,Premium,Tablet,Sci-Fi,Comedy
+239,19,Canada,Standard,Laptop,Horror,Comedy
+240,34,UK,Premium,Laptop,Sci-Fi,Thriller
+241,49,Canada,Basic,Mobile,Comedy,Documentary
+242,29,India,Basic,Tablet,Romance,Comedy
+243,53,Mexico,Standard,Tablet,Drama,Fantasy
+244,41,Mexico,Basic,Smart TV,Sci-Fi,Drama
+245,33,India,Basic,Tablet,Horror,Romance
+246,47,Mexico,Basic,Smart TV,Comedy,Thriller
+247,43,India,Premium,Laptop,Animation,Comedy
+248,26,UK,Premium,Smart TV,Documentary,Fantasy
+249,51,UK,Basic,Mobile,Drama,Animation
+250,50,USA,Basic,Mobile,Thriller,Drama
+251,28,UK,Premium,Mobile,Romance,Horror
+252,36,USA,Standard,Mobile,Horror,Thriller
+253,26,UK,Premium,Smart TV,Horror,Drama
+254,55,Mexico,Basic,Mobile,Fantasy,Romance
+255,54,USA,Basic,Smart TV,Action,Thriller
+256,59,Canada,Premium,Laptop,Fantasy,Action
+257,49,Mexico,Standard,Tablet,Documentary,Sci-Fi
+258,43,UK,Standard,Smart TV,Action,Drama
+259,46,India,Standard,Laptop,Sci-Fi,Romance
+260,56,Canada,Standard,Tablet,Romance,Animation
+261,26,UK,Premium,Smart TV,Romance,Sci-Fi
+262,47,USA,Standard,Laptop,Sci-Fi,Drama
+263,24,USA,Standard,Laptop,Fantasy,Animation
+264,33,Canada,Standard,Tablet,Sci-Fi,Drama
+265,49,Mexico,Standard,Laptop,Thriller,Documentary
+266,19,USA,Standard,Laptop,Sci-Fi,Fantasy
+267,55,UK,Basic,Smart TV,Thriller,Documentary
+268,56,India,Standard,Smart TV,Comedy,Animation
+269,26,UK,Premium,Tablet,Animation,Romance
+270,20,India,Basic,Mobile,Romance,Horror
+271,36,USA,Standard,Laptop,Horror,Thriller
+272,57,Mexico,Basic,Mobile,Comedy,Animation
+273,41,UK,Premium,Tablet,Drama,Sci-Fi
+274,56,Mexico,Standard,Smart TV,Action,Fantasy
+275,26,UK,Standard,Laptop,Drama,Horror
+276,26,UK,Premium,Tablet,Drama,Animation
+277,57,UK,Premium,Tablet,Horror,Fantasy
+278,52,India,Premium,Tablet,Documentary,Action
+279,41,UK,Premium,Smart TV,Animation,Thriller
+280,58,USA,Premium,Laptop,Thriller,Sci-Fi
+281,21,Mexico,Standard,Mobile,Horror,Animation
+282,27,Canada,Basic,Smart TV,Sci-Fi,Action
+283,46,UK,Standard,Mobile,Animation,Sci-Fi
+284,44,Mexico,Premium,Laptop,Action,Drama
+285,51,Canada,Premium,Tablet,Documentary,Horror
+286,42,UK,Basic,Laptop,Horror,Romance
+287,52,UK,Premium,Tablet,Fantasy,Documentary
+288,30,Canada,Standard,Tablet,Sci-Fi,Thriller
+289,36,Canada,Premium,Laptop,Romance,Documentary
+290,40,Mexico,Premium,Tablet,Thriller,Comedy
+291,54,Mexico,Standard,Laptop,Romance,Drama
+292,36,USA,Standard,Smart TV,Romance,Documentary
+293,59,UK,Premium,Laptop,Sci-Fi,Fantasy
+294,52,UK,Premium,Tablet,Drama,Comedy
+295,57,Mexico,Basic,Mobile,Action,Horror
+296,32,Canada,Basic,Smart TV,Animation,Romance
+297,48,USA,Premium,Mobile,Action,Horror
+298,28,India,Premium,Laptop,Documentary,Sci-Fi
+299,36,UK,Standard,Smart TV,Comedy,Sci-Fi
+300,52,USA,Basic,Laptop,Drama,Action
+301,43,India,Basic,Tablet,Action,Fantasy
+302,37,Mexico,Premium,Smart TV,Romance,Thriller
+303,47,Mexico,Premium,Laptop,Drama,Horror
+304,47,UK,Basic,Smart TV,Romance,Drama
+305,47,UK,Premium,Mobile,Action,Romance
+306,36,Mexico,Premium,Mobile,Drama,Animation
+307,45,Mexico,Standard,Smart TV,Animation,Comedy
+308,29,Canada,Standard,Tablet,Sci-Fi,Action
+309,34,India,Basic,Laptop,Thriller,Romance
+310,37,Mexico,Premium,Smart TV,Thriller,Romance
+311,33,USA,Premium,Smart TV,Documentary,Thriller
+312,28,India,Premium,Tablet,Comedy,Thriller
+313,41,Mexico,Basic,Mobile,Drama,Documentary
+314,27,India,Premium,Tablet,Animation,Horror
+315,48,Mexico,Premium,Mobile,Sci-Fi,Comedy
+316,51,India,Premium,Tablet,Comedy,Fantasy
+317,21,Mexico,Premium,Mobile,Fantasy,Horror
+318,27,Canada,Standard,Laptop,Comedy,Sci-Fi
+319,55,India,Basic,Laptop,Action,Documentary
+320,26,Mexico,Standard,Laptop,Fantasy,Action
+321,53,India,Premium,Tablet,Action,Animation
+322,34,USA,Premium,Mobile,Fantasy,Comedy
+323,20,India,Standard,Smart TV,Horror,Action
+324,22,India,Basic,Tablet,Animation,Drama
+325,26,India,Standard,Laptop,Documentary,Animation
+326,42,USA,Premium,Mobile,Romance,Comedy
+327,29,Mexico,Standard,Mobile,Sci-Fi,Action
+328,19,UK,Standard,Laptop,Horror,Animation
+329,32,Canada,Standard,Tablet,Drama,Thriller
+330,30,USA,Basic,Laptop,Fantasy,Action
+331,33,Canada,Basic,Smart TV,Fantasy,Action
+332,46,Mexico,Premium,Smart TV,Sci-Fi,Action
+333,43,India,Basic,Mobile,Action,Drama
+334,50,UK,Basic,Tablet,Fantasy,Romance
+335,33,UK,Basic,Mobile,Animation,Thriller
+336,35,USA,Premium,Mobile,Animation,Horror
+337,49,USA,Standard,Laptop,Horror,Romance
+338,44,India,Basic,Tablet,Animation,Drama
+339,52,India,Basic,Mobile,Thriller,Drama
+340,47,USA,Premium,Laptop,Animation,Horror
+341,51,Canada,Standard,Mobile,Thriller,Sci-Fi
+342,39,USA,Standard,Tablet,Comedy,Horror
+343,30,USA,Standard,Laptop,Fantasy,Action
+344,22,Canada,Premium,Mobile,Documentary,Sci-Fi
+345,39,UK,Basic,Mobile,Sci-Fi,Comedy
+346,48,Canada,Premium,Mobile,Animation,Sci-Fi
+347,53,UK,Standard,Laptop,Documentary,Horror
+348,59,UK,Standard,Tablet,Romance,Horror
+349,49,India,Basic,Laptop,Romance,Sci-Fi
+350,41,UK,Standard,Smart TV,Fantasy,Sci-Fi
+351,27,USA,Standard,Laptop,Thriller,Drama
+352,30,UK,Basic,Laptop,Fantasy,Sci-Fi
+353,49,Mexico,Premium,Tablet,Thriller,Documentary
+354,59,India,Standard,Mobile,Romance,Drama
+355,26,Mexico,Standard,Mobile,Horror,Action
+356,51,USA,Basic,Smart TV,Action,Animation
+357,26,Canada,Basic,Mobile,Action,Sci-Fi
+358,50,India,Standard,Smart TV,Fantasy,Documentary
+359,60,India,Basic,Smart TV,Horror,Fantasy
+360,44,USA,Basic,Tablet,Horror,Thriller
+361,19,Mexico,Premium,Laptop,Drama,Comedy
+362,24,Mexico,Basic,Mobile,Sci-Fi,Horror
+363,34,UK,Standard,Laptop,Comedy,Romance
+364,43,India,Premium,Mobile,Sci-Fi,Thriller
+365,23,USA,Basic,Laptop,Animation,Fantasy
+366,53,India,Basic,Smart TV,Drama,Comedy
+367,49,India,Premium,Tablet,Fantasy,Comedy
+368,51,USA,Basic,Mobile,Fantasy,Documentary
+369,35,USA,Basic,Tablet,Horror,Action
+370,29,UK,Basic,Mobile,Fantasy,Drama
+371,43,USA,Standard,Mobile,Fantasy,Sci-Fi
+372,54,India,Premium,Tablet,Animation,Drama
+373,23,Mexico,Premium,Tablet,Action,Comedy
+374,45,Canada,Basic,Tablet,Fantasy,Animation
+375,38,USA,Premium,Tablet,Documentary,Fantasy
+376,32,UK,Premium,Laptop,Animation,Drama
+377,55,India,Basic,Tablet,Sci-Fi,Comedy
+378,23,UK,Basic,Laptop,Drama,Animation
+379,38,UK,Basic,Smart TV,Action,Thriller
+380,46,UK,Standard,Smart TV,Drama,Comedy
+381,29,India,Standard,Laptop,Comedy,Action
+382,23,UK,Premium,Smart TV,Fantasy,Romance
+383,42,USA,Standard,Laptop,Animation,Comedy
+384,53,Canada,Premium,Mobile,Animation,Drama
+385,26,UK,Standard,Tablet,Documentary,Drama
+386,22,Canada,Standard,Tablet,Animation,Thriller
+387,48,USA,Standard,Tablet,Sci-Fi,Documentary
+388,56,Mexico,Basic,Laptop,Comedy,Drama
+389,37,USA,Standard,Tablet,Fantasy,Animation
+390,39,India,Standard,Laptop,Fantasy,Drama
+391,37,UK,Premium,Mobile,Documentary,Romance
+392,29,India,Standard,Tablet,Documentary,Sci-Fi
+393,38,India,Standard,Laptop,Romance,Comedy
+394,54,Canada,Premium,Mobile,Horror,Action
+395,47,Canada,Standard,Tablet,Comedy,Animation
+396,49,Canada,Premium,Tablet,Sci-Fi,Thriller
+397,60,Canada,Premium,Laptop,Animation,Comedy
+398,46,Mexico,Standard,Laptop,Horror,Fantasy
+399,44,Mexico,Basic,Tablet,Horror,Comedy
+400,24,Canada,Premium,Tablet,Drama,Action
+401,54,India,Standard,Laptop,Comedy,Action
+402,24,UK,Basic,Mobile,Documentary,Romance
+403,43,India,Premium,Mobile,Romance,Action
+404,48,USA,Standard,Laptop,Comedy,Fantasy
+405,27,UK,Standard,Tablet,Documentary,Sci-Fi
+406,51,India,Standard,Laptop,Comedy,Documentary
+407,46,UK,Basic,Tablet,Action,Comedy
+408,19,UK,Premium,Smart TV,Drama,Sci-Fi
+409,51,Canada,Premium,Mobile,Romance,Horror
+410,45,India,Basic,Laptop,Drama,Fantasy
+411,58,India,Standard,Smart TV,Fantasy,Sci-Fi
+412,46,Mexico,Standard,Laptop,Action,Sci-Fi
+413,31,UK,Premium,Smart TV,Fantasy,Comedy
+414,52,Canada,Standard,Tablet,Sci-Fi,Documentary
+415,25,UK,Premium,Laptop,Horror,Romance
+416,56,India,Premium,Laptop,Fantasy,Comedy
+417,40,UK,Standard,Mobile,Thriller,Comedy
+418,26,UK,Basic,Mobile,Thriller,Comedy
+419,29,UK,Premium,Mobile,Horror,Animation
+420,44,Mexico,Basic,Laptop,Animation,Drama
+421,49,Mexico,Premium,Mobile,Horror,Drama
+422,49,UK,Basic,Mobile,Romance,Documentary
+423,57,USA,Standard,Smart TV,Documentary,Drama
+424,30,India,Premium,Laptop,Animation,Documentary
+425,44,India,Standard,Mobile,Comedy,Action
+426,32,UK,Basic,Tablet,Sci-Fi,Horror
+427,36,Canada,Standard,Laptop,Horror,Fantasy
+428,25,Mexico,Basic,Tablet,Horror,Romance
+429,52,USA,Premium,Laptop,Horror,Sci-Fi
+430,45,USA,Premium,Mobile,Thriller,Action
+431,46,UK,Standard,Smart TV,Documentary,Comedy
+432,33,Canada,Premium,Tablet,Fantasy,Animation
+433,28,Mexico,Basic,Mobile,Sci-Fi,Action
+434,54,UK,Premium,Tablet,Fantasy,Horror
+435,28,UK,Premium,Tablet,Thriller,Fantasy
+436,50,USA,Basic,Laptop,Action,Thriller
+437,59,Canada,Premium,Mobile,Sci-Fi,Drama
+438,38,Canada,Premium,Laptop,Documentary,Drama
+439,54,UK,Premium,Laptop,Animation,Documentary
+440,22,USA,Standard,Tablet,Romance,Documentary
+441,49,UK,Premium,Smart TV,Comedy,Documentary
+442,58,UK,Basic,Laptop,Sci-Fi,Animation
+443,31,India,Standard,Tablet,Thriller,Romance
+444,53,Mexico,Basic,Laptop,Romance,Action
+445,20,USA,Premium,Laptop,Action,Comedy
+446,28,India,Standard,Smart TV,Animation,Sci-Fi
+447,26,UK,Basic,Tablet,Comedy,Romance
+448,34,USA,Standard,Mobile,Action,Animation
+449,58,UK,Premium,Mobile,Animation,Comedy
+450,24,USA,Basic,Laptop,Comedy,Drama
+451,55,Canada,Premium,Laptop,Action,Fantasy
+452,39,USA,Standard,Mobile,Documentary,Comedy
+453,32,India,Basic,Smart TV,Comedy,Romance
+454,41,UK,Basic,Laptop,Drama,Fantasy
+455,22,Mexico,Premium,Smart TV,Fantasy,Drama
+456,46,UK,Premium,Mobile,Drama,Animation
+457,57,India,Basic,Smart TV,Comedy,Drama
+458,25,Mexico,Premium,Laptop,Romance,Animation
+459,38,Canada,Basic,Tablet,Comedy,Sci-Fi
+460,53,Mexico,Premium,Tablet,Action,Thriller
+461,31,Mexico,Premium,Mobile,Animation,Thriller
+462,59,USA,Basic,Laptop,Animation,Comedy
+463,33,India,Premium,Smart TV,Horror,Action
+464,41,UK,Basic,Laptop,Fantasy,Animation
+465,41,Mexico,Premium,Mobile,Documentary,Comedy
+466,19,Mexico,Basic,Smart TV,Thriller,Sci-Fi
+467,20,USA,Standard,Tablet,Horror,Animation
+468,45,India,Basic,Mobile,Thriller,Comedy
+469,37,USA,Premium,Mobile,Drama,Horror
+470,38,India,Premium,Smart TV,Thriller,Animation
+471,33,USA,Basic,Smart TV,Animation,Comedy
+472,47,Mexico,Premium,Smart TV,Thriller,Drama
+473,25,USA,Premium,Mobile,Action,Drama
+474,49,UK,Premium,Tablet,Drama,Romance
+475,26,UK,Premium,Smart TV,Action,Romance
+476,45,UK,Premium,Smart TV,Thriller,Comedy
+477,49,India,Premium,Tablet,Action,Documentary
+478,54,Canada,Standard,Mobile,Thriller,Comedy
+479,54,USA,Basic,Smart TV,Action,Fantasy
+480,33,USA,Standard,Tablet,Animation,Drama
+481,29,USA,Premium,Laptop,Sci-Fi,Romance
+482,33,India,Premium,Tablet,Thriller,Comedy
+483,54,UK,Basic,Smart TV,Drama,Sci-Fi
+484,51,USA,Standard,Smart TV,Documentary,Thriller
+485,37,UK,Basic,Laptop,Action,Romance
+486,30,UK,Premium,Tablet,Fantasy,Sci-Fi
+487,47,UK,Premium,Laptop,Sci-Fi,Horror
+488,33,Canada,Basic,Laptop,Action,Sci-Fi
+489,52,UK,Premium,Smart TV,Romance,Action
+490,60,India,Premium,Tablet,Comedy,Sci-Fi
+491,51,Canada,Standard,Laptop,Action,Drama
+492,35,USA,Basic,Mobile,Horror,Animation
+493,41,India,Premium,Smart TV,Fantasy,Comedy
+494,50,Canada,Premium,Laptop,Comedy,Action
+495,45,Canada,Basic,Tablet,Thriller,Romance
+496,43,UK,Standard,Laptop,Thriller,Sci-Fi
+497,22,Canada,Basic,Smart TV,Drama,Comedy
+498,28,India,Standard,Tablet,Animation,Comedy
+499,52,UK,Basic,Laptop,Thriller,Documentary
+500,34,USA,Basic,Mobile,Thriller,Action
+501,31,UK,Basic,Smart TV,Sci-Fi,Romance
+502,43,Mexico,Basic,Tablet,Thriller,Drama
+503,19,India,Standard,Mobile,Comedy,Documentary
+504,24,Canada,Basic,Smart TV,Action,Sci-Fi
+505,26,Canada,Standard,Tablet,Comedy,Thriller
+506,22,USA,Basic,Mobile,Documentary,Drama
+507,23,UK,Basic,Smart TV,Documentary,Action
+508,28,Mexico,Standard,Laptop,Documentary,Action
+509,42,India,Basic,Tablet,Sci-Fi,Drama
+510,35,UK,Standard,Mobile,Action,Sci-Fi
+511,59,UK,Standard,Laptop,Horror,Documentary
+512,21,USA,Standard,Laptop,Drama,Animation
+513,30,Mexico,Basic,Smart TV,Animation,Romance
+514,48,Mexico,Standard,Tablet,Fantasy,Horror
+515,38,India,Standard,Mobile,Action,Romance
+516,56,Canada,Basic,Tablet,Action,Documentary
+517,51,UK,Premium,Mobile,Drama,Comedy
+518,33,Canada,Standard,Smart TV,Sci-Fi,Animation
+519,40,Canada,Basic,Mobile,Fantasy,Romance
+520,40,Mexico,Basic,Tablet,Fantasy,Drama
+521,54,Canada,Standard,Tablet,Drama,Documentary
+522,20,USA,Basic,Mobile,Fantasy,Sci-Fi
+523,19,Mexico,Standard,Smart TV,Romance,Sci-Fi
+524,26,UK,Premium,Mobile,Romance,Action
+525,19,Canada,Premium,Mobile,Comedy,Horror
+526,41,USA,Standard,Laptop,Fantasy,Comedy
+527,39,UK,Standard,Mobile,Drama,Animation
+528,58,India,Premium,Tablet,Drama,Horror
+529,57,UK,Basic,Mobile,Animation,Thriller
+530,36,Canada,Basic,Smart TV,Fantasy,Animation
+531,54,USA,Basic,Tablet,Fantasy,Sci-Fi
+532,58,Mexico,Basic,Laptop,Drama,Romance
+533,22,Canada,Standard,Tablet,Drama,Comedy
+534,60,UK,Standard,Smart TV,Thriller,Sci-Fi
+535,33,USA,Standard,Tablet,Comedy,Action
+536,21,India,Standard,Laptop,Drama,Animation
+537,49,India,Standard,Laptop,Comedy,Documentary
+538,54,Canada,Basic,Laptop,Comedy,Action
+539,36,USA,Standard,Tablet,Comedy,Fantasy
+540,39,Canada,Standard,Mobile,Comedy,Horror
+541,23,UK,Premium,Laptop,Action,Animation
+542,59,Canada,Premium,Laptop,Drama,Action
+543,24,UK,Basic,Mobile,Animation,Horror
+544,52,UK,Premium,Tablet,Thriller,Sci-Fi
+545,24,USA,Standard,Laptop,Drama,Action
+546,41,USA,Standard,Smart TV,Thriller,Documentary
+547,30,USA,Basic,Mobile,Drama,Thriller
+548,23,India,Basic,Tablet,Animation,Documentary
+549,49,UK,Basic,Laptop,Drama,Romance
+550,42,UK,Basic,Laptop,Action,Thriller
+551,46,India,Standard,Mobile,Thriller,Action
+552,27,USA,Basic,Tablet,Horror,Animation
+553,55,Canada,Premium,Smart TV,Animation,Horror
+554,44,Mexico,Premium,Laptop,Fantasy,Sci-Fi
+555,48,UK,Basic,Laptop,Action,Horror
+556,54,Mexico,Premium,Mobile,Comedy,Documentary
+557,29,Canada,Basic,Mobile,Drama,Action
+558,45,USA,Premium,Laptop,Sci-Fi,Drama
+559,56,UK,Standard,Smart TV,Comedy,Animation
+560,53,India,Premium,Tablet,Thriller,Horror
+561,47,USA,Premium,Laptop,Comedy,Animation
+562,27,Canada,Premium,Smart TV,Comedy,Fantasy
+563,36,Mexico,Standard,Laptop,Thriller,Animation
+564,59,India,Premium,Laptop,Action,Drama
+565,35,India,Basic,Laptop,Action,Animation
+566,39,Canada,Basic,Laptop,Thriller,Romance
+567,19,UK,Standard,Tablet,Thriller,Documentary
+568,24,Canada,Basic,Tablet,Documentary,Romance
+569,35,India,Premium,Smart TV,Sci-Fi,Documentary
+570,31,India,Premium,Laptop,Horror,Romance
+571,21,Mexico,Basic,Smart TV,Thriller,Horror
+572,43,Canada,Premium,Smart TV,Drama,Sci-Fi
+573,30,USA,Basic,Smart TV,Documentary,Action
+574,41,Canada,Standard,Tablet,Documentary,Horror
+575,43,USA,Premium,Smart TV,Sci-Fi,Romance
+576,49,Mexico,Standard,Mobile,Documentary,Horror
+577,40,UK,Basic,Tablet,Comedy,Thriller
+578,19,India,Basic,Mobile,Fantasy,Sci-Fi
+579,32,Canada,Premium,Mobile,Thriller,Animation
+580,50,USA,Premium,Smart TV,Documentary,Drama
+581,59,Canada,Premium,Smart TV,Sci-Fi,Thriller
+582,56,UK,Premium,Tablet,Animation,Fantasy
+583,40,India,Standard,Mobile,Documentary,Thriller
+584,51,Mexico,Standard,Smart TV,Action,Horror
+585,60,UK,Premium,Tablet,Thriller,Comedy
+586,48,USA,Standard,Tablet,Romance,Thriller
+587,34,UK,Basic,Mobile,Horror,Sci-Fi
+588,21,Mexico,Standard,Tablet,Drama,Action
+589,59,India,Standard,Tablet,Animation,Fantasy
+590,42,USA,Premium,Mobile,Romance,Sci-Fi
+591,52,India,Premium,Tablet,Horror,Thriller
+592,28,Mexico,Basic,Tablet,Comedy,Documentary
+593,26,UK,Premium,Mobile,Romance,Comedy
+594,32,UK,Basic,Tablet,Animation,Romance
+595,41,UK,Premium,Tablet,Documentary,Comedy
+596,48,USA,Premium,Smart TV,Documentary,Sci-Fi
+597,50,USA,Premium,Laptop,Horror,Thriller
+598,44,USA,Basic,Mobile,Sci-Fi,Romance
+599,44,Mexico,Standard,Mobile,Romance,Drama
+600,23,India,Standard,Mobile,Romance,Action
+601,18,India,Standard,Mobile,Drama,Fantasy
+602,49,USA,Basic,Laptop,Animation,Fantasy
+603,45,India,Standard,Smart TV,Action,Horror
+604,30,UK,Basic,Tablet,Horror,Sci-Fi
+605,19,USA,Premium,Mobile,Sci-Fi,Romance
+606,37,Canada,Basic,Laptop,Horror,Thriller
+607,28,USA,Basic,Tablet,Thriller,Documentary
+608,51,Mexico,Premium,Tablet,Animation,Drama
+609,39,India,Standard,Mobile,Drama,Animation
+610,19,Canada,Basic,Mobile,Sci-Fi,Action
+611,55,Mexico,Basic,Smart TV,Romance,Action
+612,42,UK,Premium,Smart TV,Fantasy,Action
+613,60,USA,Premium,Smart TV,Action,Comedy
+614,44,India,Standard,Smart TV,Horror,Thriller
+615,48,Canada,Basic,Smart TV,Thriller,Animation
+616,60,USA,Premium,Tablet,Fantasy,Drama
+617,44,USA,Premium,Smart TV,Thriller,Comedy
+618,24,India,Basic,Mobile,Thriller,Horror
+619,30,UK,Premium,Laptop,Thriller,Drama
+620,20,Mexico,Standard,Mobile,Documentary,Romance
+621,33,USA,Basic,Smart TV,Comedy,Documentary
+622,27,USA,Premium,Smart TV,Comedy,Thriller
+623,59,Canada,Standard,Tablet,Thriller,Documentary
+624,21,USA,Basic,Smart TV,Thriller,Romance
+625,38,India,Premium,Smart TV,Comedy,Action
+626,18,Canada,Premium,Mobile,Romance,Fantasy
+627,46,Mexico,Standard,Smart TV,Romance,Fantasy
+628,29,USA,Standard,Laptop,Documentary,Thriller
+629,42,India,Standard,Mobile,Comedy,Drama
+630,21,Canada,Basic,Laptop,Fantasy,Documentary
+631,54,India,Basic,Laptop,Romance,Action
+632,26,India,Standard,Smart TV,Animation,Documentary
+633,20,USA,Standard,Tablet,Action,Horror
+634,54,Mexico,Basic,Tablet,Horror,Fantasy
+635,57,USA,Standard,Mobile,Documentary,Romance
+636,60,India,Basic,Smart TV,Action,Drama
+637,50,India,Standard,Mobile,Comedy,Documentary
+638,38,Canada,Standard,Tablet,Action,Horror
+639,32,Mexico,Premium,Laptop,Animation,Sci-Fi
+640,23,India,Standard,Laptop,Comedy,Documentary
+641,46,UK,Basic,Laptop,Action,Comedy
+642,43,India,Basic,Smart TV,Comedy,Thriller
+643,50,Mexico,Basic,Laptop,Romance,Fantasy
+644,21,Canada,Standard,Tablet,Horror,Documentary
+645,60,UK,Premium,Laptop,Comedy,Fantasy
+646,60,Canada,Basic,Tablet,Romance,Thriller
+647,53,Mexico,Standard,Smart TV,Action,Drama
+648,49,Canada,Premium,Laptop,Comedy,Thriller
+649,57,Canada,Basic,Smart TV,Animation,Sci-Fi
+650,47,Canada,Premium,Tablet,Comedy,Animation
+651,20,Mexico,Basic,Laptop,Documentary,Horror
+652,26,India,Basic,Smart TV,Horror,Animation
+653,55,India,Premium,Mobile,Fantasy,Drama
+654,26,USA,Standard,Tablet,Horror,Animation
+655,44,Mexico,Premium,Mobile,Thriller,Animation
+656,39,UK,Standard,Mobile,Drama,Animation
+657,56,Mexico,Standard,Tablet,Horror,Sci-Fi
+658,30,Canada,Premium,Tablet,Romance,Drama
+659,59,Canada,Premium,Tablet,Comedy,Romance
+660,53,India,Premium,Laptop,Horror,Thriller
+661,45,USA,Premium,Smart TV,Action,Animation
+662,27,USA,Premium,Smart TV,Sci-Fi,Thriller
+663,28,UK,Premium,Tablet,Drama,Action
+664,36,Canada,Premium,Smart TV,Romance,Documentary
+665,24,Mexico,Premium,Mobile,Horror,Animation
+666,33,Mexico,Premium,Tablet,Action,Animation
+667,42,India,Premium,Tablet,Horror,Action
+668,18,UK,Basic,Laptop,Sci-Fi,Romance
+669,55,Mexico,Premium,Mobile,Sci-Fi,Thriller
+670,46,Canada,Premium,Smart TV,Drama,Fantasy
+671,50,USA,Standard,Smart TV,Animation,Thriller
+672,53,UK,Basic,Mobile,Fantasy,Thriller
+673,18,UK,Standard,Mobile,Action,Drama
+674,38,Mexico,Basic,Tablet,Documentary,Horror
+675,40,USA,Premium,Tablet,Horror,Sci-Fi
+676,29,Mexico,Basic,Mobile,Animation,Horror
+677,52,India,Basic,Tablet,Sci-Fi,Fantasy
+678,60,UK,Standard,Tablet,Thriller,Sci-Fi
+679,57,Mexico,Standard,Smart TV,Comedy,Romance
+680,46,Canada,Premium,Mobile,Action,Romance
+681,42,USA,Standard,Tablet,Horror,Thriller
+682,19,Mexico,Standard,Laptop,Documentary,Action
+683,36,Canada,Standard,Smart TV,Comedy,Drama
+684,52,Mexico,Basic,Smart TV,Sci-Fi,Fantasy
+685,45,USA,Basic,Laptop,Comedy,Drama
+686,19,India,Premium,Tablet,Action,Comedy
+687,22,USA,Basic,Tablet,Horror,Comedy
+688,54,Canada,Standard,Laptop,Animation,Documentary
+689,58,India,Standard,Tablet,Action,Animation
+690,25,Mexico,Basic,Smart TV,Fantasy,Action
+691,22,UK,Premium,Smart TV,Thriller,Fantasy
+692,56,USA,Standard,Laptop,Animation,Fantasy
+693,60,USA,Standard,Mobile,Horror,Sci-Fi
+694,26,India,Premium,Tablet,Drama,Thriller
+695,59,UK,Basic,Mobile,Comedy,Action
+696,18,Mexico,Premium,Laptop,Horror,Fantasy
+697,23,UK,Basic,Tablet,Sci-Fi,Animation
+698,59,Mexico,Basic,Mobile,Drama,Sci-Fi
+699,57,UK,Basic,Smart TV,Drama,Action
+700,53,India,Premium,Smart TV,Thriller,Comedy
+701,34,USA,Basic,Laptop,Romance,Fantasy
+702,26,Canada,Basic,Tablet,Fantasy,Comedy
+703,30,UK,Standard,Laptop,Romance,Thriller
+704,55,Canada,Premium,Tablet,Romance,Animation
+705,28,USA,Standard,Mobile,Sci-Fi,Animation
+706,35,UK,Basic,Tablet,Documentary,Fantasy
+707,46,UK,Standard,Laptop,Horror,Comedy
+708,29,Mexico,Basic,Tablet,Drama,Horror
+709,30,UK,Premium,Smart TV,Comedy,Action
+710,50,USA,Premium,Laptop,Fantasy,Sci-Fi
+711,20,Mexico,Standard,Laptop,Drama,Romance
+712,43,Canada,Premium,Tablet,Drama,Documentary
+713,50,Mexico,Basic,Laptop,Romance,Horror
+714,18,Canada,Premium,Mobile,Horror,Drama
+715,46,Canada,Basic,Mobile,Documentary,Romance
+716,20,Canada,Standard,Mobile,Comedy,Thriller
+717,41,Canada,Basic,Mobile,Horror,Romance
+718,42,India,Standard,Smart TV,Action,Romance
+719,24,Mexico,Premium,Tablet,Thriller,Horror
+720,54,Canada,Standard,Laptop,Romance,Comedy
+721,51,UK,Standard,Mobile,Horror,Animation
+722,40,UK,Standard,Laptop,Fantasy,Action
+723,50,Canada,Standard,Mobile,Sci-Fi,Comedy
+724,50,UK,Basic,Mobile,Drama,Fantasy
+725,41,Mexico,Premium,Smart TV,Sci-Fi,Animation
+726,39,USA,Standard,Laptop,Documentary,Sci-Fi
+727,55,Canada,Premium,Laptop,Action,Sci-Fi
+728,20,Canada,Premium,Mobile,Drama,Horror
+729,20,Mexico,Basic,Smart TV,Drama,Thriller
+730,29,Mexico,Standard,Smart TV,Thriller,Comedy
+731,31,India,Premium,Laptop,Documentary,Drama
+732,32,India,Premium,Mobile,Fantasy,Drama
+733,57,Mexico,Standard,Mobile,Romance,Documentary
+734,56,Mexico,Basic,Mobile,Animation,Fantasy
+735,26,USA,Basic,Mobile,Horror,Fantasy
+736,44,Canada,Premium,Smart TV,Drama,Documentary
+737,57,Mexico,Basic,Smart TV,Comedy,Documentary
+738,60,Canada,Premium,Smart TV,Animation,Horror
+739,44,UK,Basic,Laptop,Sci-Fi,Documentary
+740,42,UK,Premium,Smart TV,Animation,Drama
+741,34,India,Basic,Smart TV,Thriller,Horror
+742,44,UK,Basic,Smart TV,Action,Horror
+743,25,Mexico,Basic,Laptop,Sci-Fi,Romance
+744,44,UK,Basic,Mobile,Animation,Thriller
+745,34,Mexico,Standard,Tablet,Fantasy,Thriller
+746,43,Canada,Standard,Laptop,Drama,Romance
+747,53,Mexico,Standard,Tablet,Thriller,Romance
+748,43,Canada,Premium,Smart TV,Sci-Fi,Documentary
+749,28,USA,Basic,Laptop,Romance,Horror
+750,57,USA,Basic,Laptop,Action,Comedy
+751,27,India,Premium,Laptop,Comedy,Fantasy
+752,34,Canada,Standard,Smart TV,Fantasy,Action
+753,42,India,Premium,Tablet,Fantasy,Action
+754,29,India,Standard,Smart TV,Sci-Fi,Horror
+755,36,Canada,Basic,Mobile,Fantasy,Drama
+756,20,UK,Basic,Smart TV,Drama,Comedy
+757,35,India,Standard,Laptop,Animation,Sci-Fi
+758,51,USA,Premium,Smart TV,Comedy,Horror
+759,36,Mexico,Premium,Tablet,Romance,Thriller
+760,32,Mexico,Basic,Laptop,Animation,Action
+761,34,Canada,Standard,Smart TV,Horror,Comedy
+762,50,UK,Standard,Smart TV,Horror,Thriller
+763,52,Mexico,Standard,Laptop,Animation,Documentary
+764,33,UK,Standard,Laptop,Fantasy,Action
+765,48,USA,Standard,Smart TV,Animation,Sci-Fi
+766,32,UK,Standard,Tablet,Horror,Fantasy
+767,18,UK,Basic,Tablet,Comedy,Animation
+768,39,USA,Premium,Mobile,Documentary,Romance
+769,40,Canada,Premium,Tablet,Drama,Sci-Fi
+770,49,Canada,Basic,Mobile,Thriller,Sci-Fi
+771,32,Canada,Basic,Tablet,Drama,Comedy
+772,25,USA,Premium,Laptop,Fantasy,Action
+773,52,USA,Standard,Tablet,Fantasy,Romance
+774,49,Mexico,Standard,Laptop,Drama,Horror
+775,35,India,Basic,Mobile,Action,Horror
+776,45,India,Premium,Smart TV,Horror,Romance
+777,43,Canada,Standard,Smart TV,Horror,Documentary
+778,38,USA,Basic,Mobile,Animation,Comedy
+779,38,UK,Premium,Tablet,Drama,Horror
+780,34,Canada,Standard,Laptop,Fantasy,Romance
+781,41,Canada,Standard,Laptop,Sci-Fi,Animation
+782,41,UK,Standard,Tablet,Documentary,Drama
+783,54,Canada,Premium,Mobile,Comedy,Thriller
+784,33,Mexico,Standard,Laptop,Sci-Fi,Drama
+785,27,India,Basic,Mobile,Animation,Documentary
+786,26,Mexico,Premium,Tablet,Documentary,Thriller
+787,34,Mexico,Premium,Smart TV,Animation,Comedy
+788,28,USA,Basic,Tablet,Documentary,Comedy
+789,46,UK,Standard,Tablet,Romance,Horror
+790,53,UK,Standard,Smart TV,Animation,Comedy
+791,40,Mexico,Basic,Mobile,Thriller,Romance
+792,38,Mexico,Standard,Laptop,Comedy,Animation
+793,57,UK,Standard,Mobile,Drama,Romance
+794,44,Mexico,Premium,Laptop,Comedy,Fantasy
+795,28,UK,Basic,Tablet,Romance,Thriller
+796,35,Mexico,Premium,Laptop,Thriller,Documentary
+797,41,Mexico,Premium,Laptop,Animation,Drama
+798,29,USA,Basic,Mobile,Thriller,Comedy
+799,31,Canada,Standard,Smart TV,Comedy,Fantasy
+800,48,Mexico,Basic,Smart TV,Animation,Horror
+801,23,USA,Standard,Mobile,Comedy,Animation
+802,37,Canada,Basic,Tablet,Documentary,Drama
+803,26,Mexico,Basic,Smart TV,Action,Romance
+804,38,India,Standard,Tablet,Horror,Documentary
+805,26,Mexico,Basic,Laptop,Fantasy,Animation
+806,51,Mexico,Standard,Tablet,Documentary,Horror
+807,32,USA,Standard,Tablet,Romance,Animation
+808,34,Canada,Standard,Smart TV,Action,Horror
+809,26,UK,Standard,Laptop,Horror,Action
+810,49,India,Standard,Smart TV,Animation,Thriller
+811,56,Canada,Basic,Tablet,Sci-Fi,Animation
+812,53,India,Standard,Mobile,Drama,Animation
+813,42,Canada,Standard,Smart TV,Animation,Sci-Fi
+814,51,Mexico,Premium,Tablet,Thriller,Horror
+815,35,India,Basic,Smart TV,Drama,Fantasy
+816,36,USA,Premium,Laptop,Fantasy,Documentary
+817,35,Mexico,Standard,Mobile,Romance,Action
+818,27,USA,Premium,Smart TV,Drama,Comedy
+819,36,UK,Basic,Laptop,Action,Sci-Fi
+820,23,Canada,Basic,Laptop,Sci-Fi,Romance
+821,44,UK,Standard,Tablet,Documentary,Action
+822,39,USA,Basic,Smart TV,Thriller,Animation
+823,22,Mexico,Standard,Mobile,Sci-Fi,Thriller
+824,42,USA,Basic,Mobile,Animation,Documentary
+825,33,USA,Basic,Laptop,Comedy,Horror
+826,60,Canada,Standard,Laptop,Thriller,Romance
+827,28,USA,Premium,Smart TV,Thriller,Documentary
+828,58,UK,Basic,Tablet,Action,Sci-Fi
+829,25,Canada,Premium,Laptop,Romance,Action
+830,28,UK,Premium,Smart TV,Animation,Sci-Fi
+831,18,USA,Premium,Laptop,Fantasy,Drama
+832,41,USA,Basic,Mobile,Documentary,Comedy
+833,57,UK,Premium,Smart TV,Action,Romance
+834,59,Canada,Premium,Smart TV,Drama,Documentary
+835,32,UK,Premium,Tablet,Documentary,Sci-Fi
+836,19,India,Standard,Mobile,Thriller,Action
+837,49,India,Premium,Tablet,Horror,Documentary
+838,30,Mexico,Basic,Tablet,Romance,Documentary
+839,35,Mexico,Premium,Mobile,Comedy,Horror
+840,27,India,Standard,Tablet,Horror,Romance
+841,47,USA,Premium,Laptop,Drama,Action
+842,57,UK,Premium,Mobile,Romance,Comedy
+843,60,Mexico,Standard,Mobile,Horror,Documentary
+844,53,Canada,Premium,Tablet,Romance,Animation
+845,59,UK,Basic,Smart TV,Horror,Comedy
+846,20,Canada,Basic,Smart TV,Sci-Fi,Comedy
+847,49,Canada,Basic,Smart TV,Fantasy,Animation
+848,60,India,Premium,Tablet,Action,Romance
+849,32,Mexico,Premium,Smart TV,Action,Sci-Fi
+850,59,India,Basic,Laptop,Action,Romance
+851,53,India,Standard,Smart TV,Fantasy,Thriller
+852,51,USA,Premium,Smart TV,Thriller,Comedy
+853,31,Mexico,Basic,Smart TV,Sci-Fi,Horror
+854,42,Canada,Basic,Mobile,Fantasy,Drama
+855,53,Mexico,Standard,Smart TV,Fantasy,Romance
+856,47,India,Basic,Mobile,Drama,Horror
+857,43,Mexico,Standard,Mobile,Horror,Documentary
+858,40,UK,Premium,Tablet,Romance,Animation
+859,58,India,Premium,Tablet,Fantasy,Sci-Fi
+860,54,Mexico,Basic,Laptop,Horror,Thriller
+861,41,India,Standard,Laptop,Action,Fantasy
+862,36,Mexico,Basic,Mobile,Thriller,Action
+863,37,Canada,Basic,Tablet,Action,Thriller
+864,53,Mexico,Premium,Mobile,Comedy,Action
+865,47,UK,Basic,Mobile,Thriller,Romance
+866,55,Canada,Basic,Tablet,Thriller,Comedy
+867,54,India,Premium,Mobile,Comedy,Romance
+868,48,Canada,Standard,Smart TV,Fantasy,Thriller
+869,20,Mexico,Standard,Smart TV,Action,Romance
+870,40,India,Standard,Smart TV,Sci-Fi,Action
+871,58,India,Basic,Tablet,Horror,Action
+872,38,Mexico,Premium,Mobile,Romance,Horror
+873,32,Canada,Basic,Laptop,Documentary,Horror
+874,23,Canada,Standard,Tablet,Animation,Drama
+875,26,UK,Basic,Laptop,Fantasy,Action
+876,53,India,Standard,Smart TV,Animation,Horror
+877,45,Canada,Basic,Laptop,Horror,Sci-Fi
+878,49,India,Premium,Mobile,Horror,Fantasy
+879,33,Canada,Basic,Tablet,Animation,Romance
+880,54,USA,Basic,Laptop,Animation,Romance
+881,40,Canada,Standard,Tablet,Fantasy,Action
+882,37,Canada,Standard,Laptop,Fantasy,Drama
+883,46,USA,Basic,Mobile,Romance,Drama
+884,23,USA,Premium,Smart TV,Sci-Fi,Drama
+885,36,USA,Standard,Smart TV,Thriller,Documentary
+886,48,USA,Standard,Mobile,Horror,Sci-Fi
+887,31,Mexico,Premium,Tablet,Horror,Documentary
+888,57,Canada,Premium,Smart TV,Animation,Horror
+889,20,UK,Basic,Smart TV,Thriller,Sci-Fi
+890,57,UK,Basic,Laptop,Action,Comedy
+891,42,UK,Premium,Tablet,Comedy,Action
+892,36,India,Basic,Laptop,Horror,Comedy
+893,38,India,Premium,Smart TV,Drama,Sci-Fi
+894,50,India,Premium,Smart TV,Action,Sci-Fi
+895,51,UK,Standard,Laptop,Animation,Drama
+896,19,UK,Premium,Tablet,Romance,Thriller
+897,33,Mexico,Standard,Smart TV,Thriller,Animation
+898,19,Mexico,Standard,Mobile,Drama,Romance
+899,43,Canada,Basic,Laptop,Horror,Sci-Fi
+900,44,Canada,Premium,Mobile,Animation,Thriller
+901,56,UK,Standard,Mobile,Sci-Fi,Drama
+902,55,Mexico,Premium,Mobile,Drama,Thriller
+903,51,Canada,Standard,Mobile,Fantasy,Drama
+904,38,USA,Premium,Smart TV,Drama,Romance
+905,27,USA,Standard,Laptop,Animation,Thriller
+906,46,UK,Basic,Mobile,Comedy,Drama
+907,29,USA,Premium,Tablet,Fantasy,Sci-Fi
+908,56,Canada,Basic,Smart TV,Romance,Comedy
+909,48,Canada,Premium,Laptop,Romance,Drama
+910,42,India,Standard,Mobile,Drama,Sci-Fi
+911,32,USA,Standard,Smart TV,Thriller,Animation
+912,32,Canada,Basic,Smart TV,Drama,Documentary
+913,57,India,Premium,Tablet,Documentary,Sci-Fi
+914,45,India,Basic,Laptop,Romance,Animation
+915,57,Mexico,Premium,Smart TV,Horror,Comedy
+916,46,India,Basic,Mobile,Horror,Fantasy
+917,43,USA,Premium,Laptop,Horror,Action
+918,30,UK,Standard,Laptop,Thriller,Fantasy
+919,47,Canada,Standard,Tablet,Fantasy,Action
+920,51,Canada,Standard,Laptop,Comedy,Horror
+921,25,Canada,Premium,Mobile,Animation,Fantasy
+922,38,India,Basic,Mobile,Documentary,Sci-Fi
+923,47,USA,Standard,Tablet,Drama,Comedy
+924,23,USA,Premium,Laptop,Romance,Comedy
+925,51,India,Premium,Mobile,Animation,Horror
+926,42,USA,Basic,Tablet,Fantasy,Drama
+927,28,Canada,Basic,Smart TV,Animation,Thriller
+928,37,India,Standard,Mobile,Comedy,Drama
+929,30,USA,Premium,Tablet,Action,Documentary
+930,49,India,Premium,Smart TV,Fantasy,Documentary
+931,33,Canada,Premium,Laptop,Documentary,Animation
+932,46,USA,Premium,Smart TV,Sci-Fi,Horror
+933,35,Mexico,Premium,Mobile,Action,Drama
+934,27,USA,Premium,Tablet,Action,Drama
+935,20,Mexico,Premium,Tablet,Romance,Comedy
+936,21,USA,Standard,Mobile,Drama,Thriller
+937,57,Mexico,Premium,Mobile,Documentary,Romance
+938,20,USA,Standard,Tablet,Romance,Animation
+939,22,India,Premium,Smart TV,Thriller,Documentary
+940,26,USA,Premium,Tablet,Romance,Horror
+941,44,Mexico,Basic,Mobile,Fantasy,Action
+942,24,Mexico,Premium,Smart TV,Documentary,Thriller
+943,45,Mexico,Standard,Tablet,Horror,Romance
+944,26,Mexico,Premium,Laptop,Horror,Documentary
+945,49,Canada,Premium,Mobile,Thriller,Sci-Fi
+946,18,USA,Basic,Laptop,Comedy,Sci-Fi
+947,57,India,Standard,Smart TV,Romance,Fantasy
+948,53,Canada,Basic,Mobile,Thriller,Fantasy
+949,22,UK,Standard,Tablet,Action,Comedy
+950,39,UK,Standard,Smart TV,Drama,Sci-Fi
+951,39,UK,Premium,Laptop,Documentary,Action
+952,59,Canada,Standard,Mobile,Documentary,Horror
+953,39,India,Standard,Smart TV,Horror,Thriller
+954,54,UK,Premium,Smart TV,Sci-Fi,Romance
+955,40,USA,Basic,Tablet,Action,Romance
+956,42,Mexico,Basic,Laptop,Drama,Comedy
+957,37,UK,Premium,Smart TV,Thriller,Animation
+958,23,India,Basic,Tablet,Documentary,Thriller
+959,31,Mexico,Standard,Mobile,Comedy,Romance
+960,20,Canada,Basic,Laptop,Horror,Action
+961,48,Mexico,Basic,Mobile,Romance,Documentary
+962,51,UK,Standard,Mobile,Comedy,Horror
+963,26,Canada,Premium,Smart TV,Documentary,Animation
+964,51,USA,Basic,Tablet,Action,Comedy
+965,39,India,Basic,Smart TV,Horror,Thriller
+966,19,Mexico,Standard,Mobile,Romance,Sci-Fi
+967,30,UK,Standard,Tablet,Documentary,Comedy
+968,35,Canada,Basic,Tablet,Comedy,Action
+969,57,Mexico,Premium,Smart TV,Sci-Fi,Horror
+970,40,Mexico,Standard,Tablet,Drama,Thriller
+971,54,Canada,Basic,Smart TV,Thriller,Romance
+972,52,India,Basic,Mobile,Action,Documentary
+973,21,USA,Standard,Smart TV,Comedy,Animation
+974,43,Canada,Premium,Laptop,Fantasy,Romance
+975,37,UK,Basic,Smart TV,Documentary,Drama
+976,23,India,Basic,Laptop,Thriller,Documentary
+977,48,Canada,Basic,Mobile,Fantasy,Thriller
+978,41,India,Basic,Tablet,Romance,Documentary
+979,49,USA,Basic,Laptop,Comedy,Romance
+980,48,India,Basic,Tablet,Romance,Drama
+981,50,USA,Standard,Smart TV,Romance,Horror
+982,59,USA,Standard,Laptop,Animation,Fantasy
+983,33,Mexico,Basic,Mobile,Documentary,Animation
+984,22,UK,Basic,Laptop,Animation,Romance
+985,52,Canada,Basic,Smart TV,Fantasy,Documentary
+986,25,Mexico,Premium,Laptop,Romance,Horror
+987,24,India,Basic,Tablet,Animation,Comedy
+988,56,USA,Premium,Laptop,Romance,Documentary
+989,59,USA,Basic,Mobile,Drama,Action
+990,27,Canada,Standard,Tablet,Animation,Documentary
+991,30,Canada,Premium,Tablet,Thriller,Fantasy
+992,45,UK,Basic,Smart TV,Fantasy,Horror
+993,43,Canada,Standard,Smart TV,Romance,Horror
+994,21,USA,Premium,Tablet,Comedy,Thriller
+995,19,Canada,Standard,Laptop,Romance,Animation
+996,43,India,Standard,Mobile,Drama,Documentary
+997,26,Canada,Premium,Laptop,Romance,Animation
+998,27,UK,Premium,Mobile,Drama,Action
+999,22,USA,Basic,Laptop,Animation,Drama
+1000,23,Canada,Premium,Laptop,Documentary,Animation
