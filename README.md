@@ -11,7 +11,6 @@ Instead of implementing only one recommendation algorithm, I wanted to compare m
 - How recommendation quality can be evaluated
 - How recommendations can be explained to business stakeholders
 
----
 
 # Project Objectives
 
