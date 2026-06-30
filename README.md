@@ -24,13 +24,13 @@ The primary goals of this project are to:
 - Explain why recommendations are made
 - Interpret the business value of recommendation systems
 
----
+
 
 # Tech Stack
 
 Python, Pandas, NumPy. Matplotlib, Scikit-learn, Jupyter Notebook, TF-IDF Vectorizer, Cosine Similarity
 
----
+
 
 # Dataset
 
@@ -38,7 +38,7 @@ For this project I used a synthetic streaming platform dataset that mimics a rea
 
 The dataset contains: Users, Movies, Ratings
 
----
+
 
 # Project Workflow
 
@@ -52,7 +52,7 @@ Tasks include:
 - Inspecting schemas
 - Understanding relationships between datasets
 
----
+
 
 ## 2. Exploratory Data Analysis (EDA)
 
@@ -68,13 +68,12 @@ Key analyses include:
 
 This helps to understand user engagement before building recommendation algorithms.
 
----
+
 
 # Recommendation Models
 
 This project includes multiple recommendation approaches to illustrate how recommendation systems evolve from simple methods to more intelligent models.
 
----
 
 ## 1. Popularity-Based Recommendation
 
@@ -89,7 +88,7 @@ This serves as a strong baseline recommendation model.
 
 While this method is easy to implement and performs well, however the recommendations are not personalized.
 
----
+
 
 ## 2. Content-Based Recommendation
 
@@ -103,7 +102,7 @@ The recommendation engine compares movie features and recommends movies with sim
 
 This approach is useful because it focuses on a user's preferences without needing data from other users. However, it has limited variety in its recommendations.
 
----
+
 
 ## 3. User-Based Collaborative Filtering
 
@@ -117,7 +116,7 @@ The workflow:
 
 This approach improves recommendation quality by learning from users with similar preferences. However, it works best when there is enough user rating data and can struggle with new users or limited interactions.
 
----
+
 
 ## 4. Item-Based Collaborative Filtering
 
@@ -125,7 +124,6 @@ Instead of comparing users, this approach compares movies. If users frequently r
 
 This approach is a reliable recommendation approach, but it depends on having enough user interactions to identify similar movies.
 
----
 
 ## 5. Hybrid Recommendation System
 
@@ -138,7 +136,6 @@ The hybrid recommender integrates:
 
 This approach balances personalization with overall popularity, making recommendations more robust.
 
----
 
 # Rating Prediction
 
@@ -152,7 +149,7 @@ The workflow includes:
 
 This demonstrates how recommendation systems estimate future user preferences.
 
----
+
 
 # Model Evaluation
 
