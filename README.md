@@ -28,8 +28,8 @@ The primary goals of this project are to:
 
 For this project I used a synthetic streaming platform dataset that mimics a real-world movie recommendation environment.
 
-Datasets: Users, Movies, Ratings
-Tech Stack: Python, Pandas, NumPy. Matplotlib, Scikit-learn, Jupyter Notebook, TF-IDF Vectorizer, Cosine Similarity
+- Datasets: Users, Movies, Ratings
+- Tech Stack: Python, Pandas, NumPy. Matplotlib, Scikit-learn, Jupyter Notebook, TF-IDF Vectorizer, Cosine Similarity
 
 
 
