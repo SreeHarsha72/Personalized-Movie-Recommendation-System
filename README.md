@@ -24,19 +24,12 @@ The primary goals of this project are to:
 - Explain why recommendations are made
 - Interpret the business value of recommendation systems
 
-
-
-## Tech Stack
-
-Python, Pandas, NumPy. Matplotlib, Scikit-learn, Jupyter Notebook, TF-IDF Vectorizer, Cosine Similarity
-
-
-
-## Dataset
+## Data and Tools
 
 For this project I used a synthetic streaming platform dataset that mimics a real-world movie recommendation environment.
 
-The dataset contains: Users, Movies, Ratings
+Datasets: Users, Movies, Ratings
+Tech Stack: Python, Pandas, NumPy. Matplotlib, Scikit-learn, Jupyter Notebook, TF-IDF Vectorizer, Cosine Similarity
 
 
 
